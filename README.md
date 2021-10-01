@@ -1,2 +1,2 @@
 # Insert-at-Pointer
-insert an image at pointer
+insert an image at pointer.
